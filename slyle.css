@@ -1,0 +1,45 @@
+.main {
+    color: #121212;
+    border:3px solid #121212;
+}
+.title{
+    display: block;
+    text-align: center;
+    
+}
+.image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 580px;
+border:3px solid #121212;
+}
+.text {
+display: block;
+text-align: center;
+}
+.insert {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 5px;
+border:3px solid #121212;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align: center;
+}
+.btn {
+display: block;
+margin-right: auto;
+margin-left: auto;
+background: #121212;
+color: white;
+border: none;
+width: 195px;
+padding: 10px;
+
+
+
+}
